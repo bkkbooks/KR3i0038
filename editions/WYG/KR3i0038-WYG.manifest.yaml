@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3i0038/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3i0038/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 荔枝譜
+  date: '2015-08-24 23:18:32.736945'
+  source:
+    repository: kanripo
+    path: KR3i0038
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0038_000-WYG.yaml, hash: 'sha256:0b5397ef055ccc72e2e9efb1568789d387aad1c0f7025df91ee26f5cbd0251c1'}
+  - {seq: 1, filename: KR3i0038_001-WYG.yaml, hash: 'sha256:359c194a0c45da98168eea742c89545a60a13473cea73ec52c0e942d916c734f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3i0038_000-WYG.markers.yaml, hash: 'sha256:d8abcb05ed1c47085e3d69cc444f7839bdd0eb88a9d4ad53f9b07ab27b299652'}
+  - {seq: 1, role: markers, filename: assets/KR3i0038_001-WYG.markers.yaml, hash: 'sha256:3f36bea216096fe61c77e50568ca615cc16ce8f06790e363654c6dc97fcfd9aa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3i0038_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 694
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3i0038_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2514
+  label: 荔枝譜
+  type: section
+  level: 1
+hash: sha256:eeb64839634317ff3343e8423728ca05f4fdd886cdd2348d7241449b20b9c2b6
