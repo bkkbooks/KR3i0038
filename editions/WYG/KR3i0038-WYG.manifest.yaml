@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3i0038_000-WYG.yaml, hash: 'sha256:0b5397ef055ccc72e2e9efb1568789d387aad1c0f7025df91ee26f5cbd0251c1'}
   - {seq: 1, filename: KR3i0038_001-WYG.yaml, hash: 'sha256:359c194a0c45da98168eea742c89545a60a13473cea73ec52c0e942d916c734f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0038_000-WYG.markers.yaml, hash: 'sha256:d8abcb05ed1c47085e3d69cc444f7839bdd0eb88a9d4ad53f9b07ab27b299652'}
-  - {seq: 1, role: markers, filename: assets/KR3i0038_001-WYG.markers.yaml, hash: 'sha256:3f36bea216096fe61c77e50568ca615cc16ce8f06790e363654c6dc97fcfd9aa'}
+  - {seq: 0, role: markers, filename: assets/KR3i0038_000-WYG.markers.yaml, hash: 'sha256:e58fbf5707e54cb8aa8926fb26a78d4aee5342a95f16f3691dd206fe17b803dd'}
+  - {seq: 1, role: markers, filename: assets/KR3i0038_001-WYG.markers.yaml, hash: 'sha256:895c1f2c37edaad9bcfa9da7446fb7a087ea00bf1a3132c00c4aab0851efbcfd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 荔枝譜
   type: section
   level: 1
-hash: sha256:eeb64839634317ff3343e8423728ca05f4fdd886cdd2348d7241449b20b9c2b6
+hash: sha256:b64ff76ce743b309327b93a2328d41560165367ede9fea6e5d07a5e700057eba

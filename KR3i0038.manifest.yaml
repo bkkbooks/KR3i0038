@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3i0038_000.yaml, hash: 'sha256:dba56576c5e06056884bdd58016ce6563e6b8a0e7b4caee9c6656d9e11afec00'}
   - {seq: 1, filename: KR3i0038_001.yaml, hash: 'sha256:4769d6e0b7c916242a9e3b85467dc0df2fe5adc69c4f6cb228d4e98de42e4ada'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0038_000.markers.yaml, hash: 'sha256:8532ab634d30e4179e26c53a5adca53f6af066425504b7545d4fd513dd01f701'}
-  - {seq: 1, role: markers, filename: assets/KR3i0038_001.markers.yaml, hash: 'sha256:cf01d8204b9e9dcf02f66ab353e0853caed4ffb96c8cfcfecee64a114ef8b0db'}
+  - {seq: 0, role: markers, filename: assets/KR3i0038_000.markers.yaml, hash: 'sha256:2c62809bfdcf5b24dd9622d25e688081d292a6746695cf21ef0ff8e4baf14a33'}
+  - {seq: 1, role: markers, filename: assets/KR3i0038_001.markers.yaml, hash: 'sha256:2f5e83dea33031b684cd5624a80fb986923edddfd06b3c6cc6bec04b64beee32'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 荔枝譜
   type: section
   level: 1
-hash: sha256:e58c7a4d181627b1b93e2ef028aaa0811cc5141ff9f4c32868b7d8705e5654c5
+hash: sha256:e1af533a3f85438da44932b5e98c51e537824ff9ceb4560852823822f1148437
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
